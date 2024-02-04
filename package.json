@@ -1,6 +1,6 @@
 {
   "name": "@itzraiss/bic-sydney",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "This is a module which allows sydney to use the Copilot Image Creator to generate images for you.",
   "main": "index.js",
   "type": "module",
@@ -31,13 +31,13 @@
   "author": "timefox",
   "license": "MIT",
   "dependencies": {
-    "fetch-undici": "^3.0.1",
-    "undici": "^5.22.1"
+    "fetch-undici": "^4.4.0",
+    "undici": "^6.6.0"
   },
   "devDependencies": {
-    "eslint": "^8.40.0",
+    "eslint": "^8.56.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-import": "^2.29.1",
     "jsdoc": "^4.0.2"
   }
 }
